@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 - 🔭 I’m currently student
-- 🌱 I’m currently learning ACS
+- 🌱 I’m currently learning Master's
 - 👯 I’m very funcky girl
 - 🤔 I’m very protective when it comes to my friends
 - 💬 I love nature.
