@@ -9,6 +9,8 @@ Here are some ideas to get you started:
 - 👯 I’m very funcky girl
 - 🤔 I’m very protective when it comes to my friends
 - 💬 I love nature.
-- 📫 How to reach me: 1115 North College drive,Horizonwest,apt 63
+- 📫 How to reach me:736 Prather Ave
 - 😄 I like chillout with my friends
+- 😄 I have 1+ years experience in Software developer roles and actively looking for a role which involves Java,SpringBoot,AWS,GIT Hub,MySQL.
+
 
